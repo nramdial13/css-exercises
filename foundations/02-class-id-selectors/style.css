@@ -1,0 +1,19 @@
+.one {
+  font-size: 18px;
+  background-color: rgb(255, 194, 204);
+  font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+.two {
+  font-size: 24px;
+}
+
+#vandy {
+  color: blue;
+  font-size: 36px;
+}
+#candy {
+  font-weight: bold;
+  background-color: rgb(136, 240, 136);
+  font-size: 24px;
+}
